@@ -4,6 +4,8 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/rgglez/cloudflare-scripts/total) 
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/cloudflare-scripts) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/cloudflare-scripts)
+![GitHub stars](https://img.shields.io/github/stars/rgglez/cloudflare-scripts?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rgglez/cloudflare-scripts?style=social)
 
 Miscelaneous scripts for [CloudFlare](https://cloudflare.com) (CF) administration.
 
