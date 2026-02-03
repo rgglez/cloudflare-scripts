@@ -15,6 +15,6 @@ Miscelaneous scripts for [CloudFlare](https://cloudflare.com) (CF) administratio
 
 ## License
 
-Copyright (c) 2025, Rodolfo González González.
+Copyright (c) 2026, Rodolfo González González.
 
 Licensed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html). Read the [LICENSE](LICENSE) file.
